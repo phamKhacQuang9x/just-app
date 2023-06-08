@@ -8,3 +8,8 @@ const Screen = {
 };
 
 export default Screen;
+export const FontFamily = {
+  Mulish: 'Mulish-Regular',
+  MulishBold: 'Mulish-Bold',
+  System: 'System',
+};
